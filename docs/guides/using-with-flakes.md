@@ -14,7 +14,7 @@ With flakes, you no longer need dedicated configuration files for `devenv`:
 Set up a new project with Nix flakes using our template:
 
 ```console
-$ nix flake init --template github:cachix/devenv
+$ nix flake init --template github:caprinix/shell
 ```
 
 This template will create:
@@ -46,7 +46,7 @@ Here's a minimal `flake.nix` file that includes:
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
-    devenv.url = "github:cachix/devenv";
+    devenv.url = "github:caprinix/shell";
   };
 
   nixConfig = {
@@ -115,7 +115,7 @@ The `flake.nix` file contains multiple `devShells`. For example:
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
-    devenv.url = "github:cachix/devenv";
+    devenv.url = "github:caprinix/shell";
   };
 
   outputs = { self, nixpkgs, devenv, ... } @ inputs:

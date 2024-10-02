@@ -149,7 +149,7 @@ You can also specify these options declaratively:
 }
 ```
 
-See this [fly.io example](https://github.com/cachix/devenv/tree/main/examples/fly.io) for how to get started.
+See this [fly.io example](https://github.com/caprinix/shell/tree/main/examples/fly.io) for how to get started.
 
 ## Changing the environment based on the build type
 

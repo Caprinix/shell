@@ -36,7 +36,7 @@
     curl -L https://raw.githubusercontent.com/NixOS/experimental-nix-installer/main/nix-installer.sh | sh -s install
     ```
 
-### 2. Install [devenv](https://github.com/cachix/devenv)
+### 2. Install [devenv](https://github.com/caprinix/shell)
 
 
 === "Newcomers"

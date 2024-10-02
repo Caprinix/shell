@@ -10,7 +10,7 @@ inputs:
   nixpkgs:
     url: github:cachix/devenv-nixpkgs/rolling
   devenv:
-    url: github:cachix/devenv
+    url: github:caprinix/shell
 imports:
 - ./frontend
 - ./backend

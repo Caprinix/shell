@@ -11,7 +11,7 @@ A Nix flake needs to consist of at least the input declarations from `devenv.yam
 To quickly set a project up with Nix flakes, use `nix flake init`:
 
 ```console
-$ nix flake init --template github:cachix/devenv#flake-parts
+$ nix flake init --template github:caprinix/shell#flake-parts
 ```
 
 This will create a `flake.nix` file with `devenv` configuration and a `.envrc` file with direnv configuration.
@@ -32,7 +32,7 @@ Here's an example of a minimal `flake.nix` file that includes `devenv`:
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
-    devenv.url = "github:cachix/devenv";
+    devenv.url = "github:caprinix/shell";
   };
 
   outputs = inputs@{ flake-parts, nixpkgs, ... }:

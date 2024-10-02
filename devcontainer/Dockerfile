@@ -28,7 +28,7 @@ RUN /nix-entrypoint.sh sleep 5 \
  && sudo setfacl -k /tmp \
  && nix profile install nixpkgs#direnv nixpkgs#cachix \
  && cachix use devenv \
- && nix profile install github:cachix/devenv/$VERSION \
+ && nix profile install github:caprinix/shell/$VERSION \
  && rm -rf ~/.cache/nix \
  && sudo /nix/var/nix/profiles/default/bin/nix-collect-garbage --delete-old \
  && chown -R root:nixbld /nix

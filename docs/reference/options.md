@@ -17,7 +17,7 @@ list of package
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 
 
@@ -43,7 +43,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -69,7 +69,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -95,7 +95,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -122,7 +122,7 @@ package
 ` "pkgs.android-studio" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -149,7 +149,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -176,7 +176,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -198,7 +198,7 @@ string
 ` "11.0" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -220,7 +220,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -242,7 +242,7 @@ string
 ` "34.1.9" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -275,7 +275,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -302,7 +302,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -323,7 +323,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -350,7 +350,7 @@ package
 ` "pkgs.flutter" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -372,7 +372,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -394,7 +394,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -416,7 +416,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -443,7 +443,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -465,7 +465,7 @@ string
 ` "34.0.5" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -493,7 +493,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -514,7 +514,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -536,7 +536,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -563,7 +563,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -585,7 +585,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -607,7 +607,7 @@ string
 ` "26.1.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/android.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/android.nix)
 
 
 
@@ -633,7 +633,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -654,7 +654,7 @@ package
 ` pkgs.aws-vault `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -675,7 +675,7 @@ submodule
 ` pkgs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -702,7 +702,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -723,7 +723,7 @@ package
 ` pkgs.awscli2 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -744,7 +744,7 @@ submodule
 ` pkgs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -771,7 +771,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -792,7 +792,7 @@ package
 ` pkgs.opentofu `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -808,7 +808,7 @@ The profile name passed to ` aws-vault exec `.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -829,7 +829,7 @@ submodule
 ` pkgs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -856,7 +856,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -877,7 +877,7 @@ package
 ` pkgs.terraform `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/aws-vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/aws-vault.nix)
 
 
 
@@ -898,7 +898,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix](https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix](https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix)
 
 
 
@@ -924,7 +924,7 @@ package
 ` inputs.devenv.inputs.cachix.packages.${pkgs.stdenv.system}.cachix `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix](https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix](https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix)
 
 
 
@@ -945,7 +945,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix](https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix](https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix)
 
 
 
@@ -966,7 +966,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix](https://github.com/cachix/devenv/blob/main/src/modules/cachix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix](https://github.com/caprinix/shell/blob/main/src/modules/cachix.nix)
 
 
 
@@ -998,7 +998,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/mkcert.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/mkcert.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/mkcert.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/mkcert.nix)
 
 
 
@@ -1019,7 +1019,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1040,7 +1040,7 @@ attribute set of (submodule)
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1067,7 +1067,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1088,7 +1088,7 @@ path or list of path
 ` "self" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1110,7 +1110,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1131,7 +1131,7 @@ list of anything
 ` [ entrypoint ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1152,7 +1152,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1173,7 +1173,7 @@ list of (submodule)
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1196,7 +1196,7 @@ list of package
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1217,7 +1217,7 @@ list of package
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1238,7 +1238,7 @@ null or path in the Nix store
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1259,7 +1259,7 @@ signed integer
 ` 1 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1282,7 +1282,7 @@ list of (submodule)
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1308,7 +1308,7 @@ null or signed integer
 ` "1000" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1334,7 +1334,7 @@ null or string
 ` "root" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1360,7 +1360,7 @@ null or string
 ` "644" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1376,7 +1376,7 @@ A store path.
 path in the Nix store
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1402,7 +1402,7 @@ null or string
 ` ".*" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1428,7 +1428,7 @@ null or signed integer
 ` "1000" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1454,7 +1454,7 @@ null or string
 ` "root" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1475,7 +1475,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1496,7 +1496,7 @@ null or signed integer
 ` 1 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1517,7 +1517,7 @@ null or string
 ` "top-level name or containers.mycontainer.name" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1538,7 +1538,7 @@ null or string
 ` "docker-daemon:" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1559,7 +1559,7 @@ null or string or package
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1580,7 +1580,7 @@ null or string
 ` "latest" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/containers.nix](https://github.com/cachix/devenv/blob/main/src/modules/containers.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/containers.nix](https://github.com/caprinix/shell/blob/main/src/modules/containers.nix)
 
 
 
@@ -1601,7 +1601,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/delta.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/delta.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/delta.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/delta.nix)
 
 
 
@@ -1627,7 +1627,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1648,7 +1648,7 @@ JSON value
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1674,7 +1674,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1692,10 +1692,10 @@ string
 
 
 *Default:*
-` "ghcr.io/cachix/devenv:latest" `
+` "ghcr.io/caprinix/shell:latest" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1716,7 +1716,7 @@ anything
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1737,7 +1737,7 @@ anything
 ` "devenv test" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/devcontainer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/devcontainer.nix)
 
 
 
@@ -1763,7 +1763,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/debug.nix](https://github.com/cachix/devenv/blob/main/src/modules/debug.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/debug.nix](https://github.com/caprinix/shell/blob/main/src/modules/debug.nix)
 
 
 
@@ -1784,7 +1784,7 @@ boolean
 ` true ` when devenv is invoked via the flake integration; ` false ` otherwise.
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix](https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix](https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix)
 
 
 
@@ -1805,7 +1805,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tests.nix](https://github.com/cachix/devenv/blob/main/src/modules/tests.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tests.nix](https://github.com/caprinix/shell/blob/main/src/modules/tests.nix)
 
 
 
@@ -1826,7 +1826,7 @@ string
 ` "1.2.0" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix](https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix](https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix)
 
 
 
@@ -1847,7 +1847,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix](https://github.com/cachix/devenv/blob/main/src/modules/update-check.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix](https://github.com/caprinix/shell/blob/main/src/modules/update-check.nix)
 
 
 
@@ -1868,7 +1868,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/difftastic.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/difftastic.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/difftastic.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/difftastic.nix)
 
 
 
@@ -1894,7 +1894,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix)
 
 
 
@@ -1915,7 +1915,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix)
 
 
 
@@ -1936,7 +1936,7 @@ string or list of string
 ` ".env" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/dotenv.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/dotenv.nix)
 
 
 
@@ -1957,7 +1957,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 
 
@@ -1973,7 +1973,7 @@ Bash code to execute to run the test.
 strings concatenated with “\\n”
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tests.nix](https://github.com/cachix/devenv/blob/main/src/modules/tests.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tests.nix](https://github.com/caprinix/shell/blob/main/src/modules/tests.nix)
 
 
 
@@ -1994,7 +1994,7 @@ lazy attribute set of anything
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 
 
@@ -2029,7 +2029,7 @@ attribute set of (string or list of string)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/hostctl.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/hostctl.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/hostctl.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/hostctl.nix)
 
 
 
@@ -2050,7 +2050,7 @@ string
 ` "devenv-<hash>" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/hostctl.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/hostctl.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/hostctl.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/hostctl.nix)
 
 
 
@@ -2071,7 +2071,7 @@ attribute set of list of string
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/info.nix](https://github.com/cachix/devenv/blob/main/src/modules/info.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/info.nix](https://github.com/caprinix/shell/blob/main/src/modules/info.nix)
 
 
 
@@ -2097,7 +2097,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ansible.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ansible.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ansible.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ansible.nix)
 
 
 
@@ -2118,7 +2118,7 @@ package
 ` pkgs.ansible `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ansible.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ansible.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ansible.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ansible.nix)
 
 
 
@@ -2144,7 +2144,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/c.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/c.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/c.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/c.nix)
 
 
 
@@ -2166,7 +2166,7 @@ null or package
 ` pkgs.gdb `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/c.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/c.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/c.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/c.nix)
 
 
 
@@ -2192,7 +2192,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/clojure.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/clojure.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/clojure.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/clojure.nix)
 
 
 
@@ -2218,7 +2218,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/cplusplus.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/cplusplus.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/cplusplus.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/cplusplus.nix)
 
 
 
@@ -2244,7 +2244,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/crystal.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/crystal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/crystal.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/crystal.nix)
 
 
 
@@ -2270,7 +2270,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/cue.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/cue.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/cue.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/cue.nix)
 
 
 
@@ -2291,7 +2291,7 @@ package
 ` pkgs.cue `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/cue.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/cue.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/cue.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/cue.nix)
 
 
 
@@ -2317,7 +2317,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/dart.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/dart.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/dart.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/dart.nix)
 
 
 
@@ -2338,7 +2338,7 @@ package
 ` pkgs.dart `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/dart.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/dart.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/dart.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/dart.nix)
 
 
 
@@ -2362,7 +2362,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/deno.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/deno.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/deno.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/deno.nix)
 
 
 
@@ -2383,7 +2383,7 @@ package
 ` pkgs.deno `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/deno.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/deno.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/deno.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/deno.nix)
 
 
 
@@ -2409,7 +2409,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/dotnet.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/dotnet.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/dotnet.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/dotnet.nix)
 
 
 
@@ -2430,7 +2430,7 @@ package
 ` pkgs.dotnet-sdk `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/dotnet.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/dotnet.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/dotnet.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/dotnet.nix)
 
 
 
@@ -2456,7 +2456,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/elixir.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/elixir.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/elixir.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/elixir.nix)
 
 
 
@@ -2477,7 +2477,7 @@ package
 ` pkgs.elixir `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/elixir.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/elixir.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/elixir.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/elixir.nix)
 
 
 
@@ -2503,7 +2503,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/elm.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/elm.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/elm.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/elm.nix)
 
 
 
@@ -2529,7 +2529,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/erlang.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/erlang.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/erlang.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/erlang.nix)
 
 
 
@@ -2550,7 +2550,7 @@ package
 ` pkgs.erlang `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/erlang.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/erlang.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/erlang.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/erlang.nix)
 
 
 
@@ -2576,7 +2576,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/fortran.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/fortran.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/fortran.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/fortran.nix)
 
 
 
@@ -2597,7 +2597,7 @@ package
 ` pkgs.gfortran `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/fortran.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/fortran.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/fortran.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/fortran.nix)
 
 
 
@@ -2623,7 +2623,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/gawk.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/gawk.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/gawk.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/gawk.nix)
 
 
 
@@ -2649,7 +2649,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/gleam.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/gleam.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/gleam.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/gleam.nix)
 
 
 
@@ -2670,7 +2670,7 @@ package
 ` pkgs.gleam `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/gleam.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/gleam.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/gleam.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/gleam.nix)
 
 
 
@@ -2696,7 +2696,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix)
 
 
 
@@ -2717,7 +2717,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix)
 
 
 
@@ -2738,7 +2738,7 @@ package
 ` pkgs.go `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/go.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/go.nix)
 
 
 
@@ -2764,7 +2764,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix)
 
 
 
@@ -2785,7 +2785,7 @@ package
 ` "pkgs.ghc" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix)
 
 
 
@@ -2806,7 +2806,7 @@ null or package
 ` "pkgs.haskell-language-server" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix)
 
 
 
@@ -2827,7 +2827,7 @@ null or package
 ` "pkgs.stack" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/haskell.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/haskell.nix)
 
 
 
@@ -2853,7 +2853,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/idris.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/idris.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/idris.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/idris.nix)
 
 
 
@@ -2879,7 +2879,7 @@ package
 ` "pkgs.idris" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/idris.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/idris.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/idris.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/idris.nix)
 
 
 
@@ -2905,7 +2905,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -2931,7 +2931,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -2953,7 +2953,7 @@ package
 ` pkgs.gradle.override { java = cfg.jdk.package; } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -2980,7 +2980,7 @@ package
 ` pkgs.jdk8 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -3006,7 +3006,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -3028,7 +3028,7 @@ package
 ` "pkgs.maven.override { jdk_headless = cfg.jdk.package; }" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/java.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/java.nix)
 
 
 
@@ -3054,7 +3054,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3075,7 +3075,7 @@ package
 ` pkgs.nodejs-slim `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3101,7 +3101,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3122,7 +3122,7 @@ package
 ` pkgs.bun `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3148,7 +3148,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3174,7 +3174,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3201,7 +3201,7 @@ string
 ` "./directory" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3227,7 +3227,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3248,7 +3248,7 @@ package
 ` pkgs.nodejs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3274,7 +3274,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3300,7 +3300,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3321,7 +3321,7 @@ package
 ` pkgs.nodePackages.pnpm `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3347,7 +3347,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3373,7 +3373,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3394,7 +3394,7 @@ package
 ` pkgs.yarn `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3420,7 +3420,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/javascript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
 
 
 
@@ -3446,7 +3446,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/jsonnet.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/jsonnet.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/jsonnet.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/jsonnet.nix)
 
 
 
@@ -3472,7 +3472,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/julia.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/julia.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/julia.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/julia.nix)
 
 
 
@@ -3493,7 +3493,7 @@ package
 ` pkgs.julia-bin `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/julia.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/julia.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/julia.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/julia.nix)
 
 
 
@@ -3519,7 +3519,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/kotlin.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/kotlin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/kotlin.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/kotlin.nix)
 
 
 
@@ -3545,7 +3545,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/lean4.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/lean4.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/lean4.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/lean4.nix)
 
 
 
@@ -3566,7 +3566,7 @@ package
 ` "pkgs.lean4" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/lean4.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/lean4.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/lean4.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/lean4.nix)
 
 
 
@@ -3592,7 +3592,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/lua.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/lua.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/lua.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/lua.nix)
 
 
 
@@ -3613,7 +3613,7 @@ package
 ` pkgs.lua `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/lua.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/lua.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/lua.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/lua.nix)
 
 
 
@@ -3639,7 +3639,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/nim.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/nim.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/nim.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/nim.nix)
 
 
 
@@ -3660,7 +3660,7 @@ package
 ` pkgs.nim `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/nim.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/nim.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/nim.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/nim.nix)
 
 
 
@@ -3686,7 +3686,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/nix.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/nix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/nix.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/nix.nix)
 
 
 
@@ -3707,7 +3707,7 @@ package
 ` pkgs.nil `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/nix.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/nix.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/nix.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/nix.nix)
 
 
 
@@ -3733,7 +3733,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ocaml.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ocaml.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ocaml.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ocaml.nix)
 
 
 
@@ -3754,7 +3754,7 @@ attribute set
 ` pkgs.ocaml-ng.ocamlPackages_4_12 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ocaml.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ocaml.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ocaml.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ocaml.nix)
 
 
 
@@ -3780,7 +3780,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix)
 
 
 
@@ -3801,7 +3801,7 @@ package
 ` pkgs.odin `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix)
 
 
 
@@ -3823,7 +3823,7 @@ null or package
 ` pkgs.gdb `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/odin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/odin.nix)
 
 
 
@@ -3849,7 +3849,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/opentofu.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/opentofu.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/opentofu.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/opentofu.nix)
 
 
 
@@ -3870,7 +3870,7 @@ package
 ` pkgs.opentofu `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/opentofu.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/opentofu.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/opentofu.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/opentofu.nix)
 
 
 
@@ -3896,7 +3896,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/pascal.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/pascal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/pascal.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/pascal.nix)
 
 
 
@@ -3922,7 +3922,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/pascal.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/pascal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/pascal.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/pascal.nix)
 
 
 
@@ -3948,7 +3948,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/perl.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/perl.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/perl.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/perl.nix)
 
 
 
@@ -3979,7 +3979,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/perl.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/perl.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/perl.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/perl.nix)
 
 
 
@@ -4005,7 +4005,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4042,7 +4042,7 @@ pkgs.php.buildEnv {
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4063,7 +4063,7 @@ submodule
 ` pkgs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4084,7 +4084,7 @@ null or package
 ` pkgs.phpPackages.composer `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4105,7 +4105,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4126,7 +4126,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4150,7 +4150,7 @@ null or strings concatenated with “\\n”
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4181,7 +4181,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4225,7 +4225,7 @@ attribute set of (submodule)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4248,7 +4248,7 @@ null or strings concatenated with “\\n”
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4274,7 +4274,7 @@ string
 ` "/path/to/unix/socket" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4309,7 +4309,7 @@ attribute set of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4325,7 +4325,7 @@ Options appended to the PHP configuration file ` php.ini ` used for this PHP-FPM
 strings concatenated with “\\n”
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4346,7 +4346,7 @@ package
 ` phpfpm.phpPackage `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4387,7 +4387,7 @@ attribute set of (string or signed integer or boolean)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4410,7 +4410,7 @@ string *(read only)*
 ` config.env.DEVENV_STATE + "/php-fpm/<name>.sock" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4447,7 +4447,7 @@ attribute set of (string or signed integer or boolean)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4468,7 +4468,7 @@ null or strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4489,7 +4489,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/php.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/php.nix)
 
 
 
@@ -4515,7 +4515,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/purescript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/purescript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/purescript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/purescript.nix)
 
 
 
@@ -4536,7 +4536,7 @@ package
 ` pkgs.purescript `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/purescript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/purescript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/purescript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/purescript.nix)
 
 
 
@@ -4562,7 +4562,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4583,7 +4583,7 @@ package
 ` pkgs.python3 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4610,7 +4610,7 @@ string
 ` "./directory" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4637,7 +4637,7 @@ list of path
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4662,7 +4662,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4688,7 +4688,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4709,7 +4709,7 @@ package
 ` pkgs.poetry `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4730,7 +4730,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4756,7 +4756,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4777,7 +4777,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4798,7 +4798,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4819,7 +4819,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4838,7 +4838,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4859,7 +4859,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4880,7 +4880,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4901,7 +4901,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4922,7 +4922,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4943,7 +4943,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4964,7 +4964,7 @@ one of “no”, “little”, “more”, “debug”
 ` "no" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -4990,7 +4990,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5011,7 +5011,7 @@ package
 ` pkgs.uv `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5037,7 +5037,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5058,7 +5058,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5079,7 +5079,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5105,7 +5105,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5126,7 +5126,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5148,7 +5148,7 @@ null or strings concatenated with “\\n” or path
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5175,7 +5175,7 @@ null or string
 ` "3.11 or 3.11.2" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/python.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/python.nix)
 
 
 
@@ -5201,7 +5201,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/r.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/r.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/r.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/r.nix)
 
 
 
@@ -5222,7 +5222,7 @@ package
 ` pkgs.R `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/r.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/r.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/r.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/r.nix)
 
 
 
@@ -5248,7 +5248,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/racket.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/racket.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/racket.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/racket.nix)
 
 
 
@@ -5269,7 +5269,7 @@ package
 ` pkgs.racket-minimal `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/racket.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/racket.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/racket.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/racket.nix)
 
 
 
@@ -5295,7 +5295,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/raku.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/raku.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/raku.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/raku.nix)
 
 
 
@@ -5321,7 +5321,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/robotframework.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/robotframework.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/robotframework.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/robotframework.nix)
 
 
 
@@ -5342,7 +5342,7 @@ package
 ` pkgs.python3 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/robotframework.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/robotframework.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/robotframework.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/robotframework.nix)
 
 
 
@@ -5368,7 +5368,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5389,7 +5389,7 @@ package
 ` pkgs.ruby_3_1 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5415,7 +5415,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5436,7 +5436,7 @@ package
 ` pkgs.bundler.override { ruby = cfg.package; } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5463,7 +5463,7 @@ null or string
 ` "3.2.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5499,7 +5499,7 @@ null or path
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/ruby.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/ruby.nix)
 
 
 
@@ -5525,7 +5525,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5546,7 +5546,7 @@ one of “nixpkgs”, “stable”, “beta”, “nightly”
 ` "nixpkgs" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5568,7 +5568,7 @@ list of string
 ` [ "rustc" "cargo" "clippy" "rustfmt" "rust-analyzer" ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5591,7 +5591,7 @@ boolean
 ` pkgs.stdenv.isLinux && pkgs.stdenv.isx86_64 && languages.rust.targets == [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5612,7 +5612,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5634,7 +5634,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5655,7 +5655,7 @@ attribute set of package
 ` nixpkgs `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5676,7 +5676,7 @@ null or package
 ` pkgs.cargo `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5697,7 +5697,7 @@ null or package
 ` pkgs.clippy `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5718,7 +5718,7 @@ null or package
 ` pkgs.rust-analyzer `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5739,7 +5739,7 @@ null or package
 ` pkgs.rustc `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5760,7 +5760,7 @@ null or package
 ` pkgs.rustfmt `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/rust.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/rust.nix)
 
 
 
@@ -5786,7 +5786,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5807,7 +5807,7 @@ package
 ` "pkgs.scala_3" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5833,7 +5833,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5854,7 +5854,7 @@ package
 ` pkgs.mill `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5880,7 +5880,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5906,7 +5906,7 @@ package
 ` sbt-with-scala-native `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/scala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/scala.nix)
 
 
 
@@ -5932,7 +5932,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/shell.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/shell.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/shell.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/shell.nix)
 
 
 
@@ -5958,7 +5958,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix)
 
 
 
@@ -5979,7 +5979,7 @@ package
 ` pkgs.elixir `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix)
 
 
 
@@ -6005,7 +6005,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix)
 
 
 
@@ -6026,7 +6026,7 @@ package
 ` foundry.defaultPackage.$${pkgs.stdenv.system} `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/solidity.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/solidity.nix)
 
 
 
@@ -6052,7 +6052,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/standardml.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/standardml.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/standardml.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/standardml.nix)
 
 
 
@@ -6073,7 +6073,7 @@ package
 ` "pkgs.mlton" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/standardml.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/standardml.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/standardml.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/standardml.nix)
 
 
 
@@ -6099,7 +6099,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/swift.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/swift.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/swift.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/swift.nix)
 
 
 
@@ -6120,7 +6120,7 @@ package
 ` "pkgs.swift" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/swift.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/swift.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/swift.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/swift.nix)
 
 
 
@@ -6146,7 +6146,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix)
 
 
 
@@ -6167,7 +6167,7 @@ package
 ` pkgs.terraform `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix)
 
 
 
@@ -6194,7 +6194,7 @@ null or string
 ` "1.5.0 or 1.6.2" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/terraform.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/terraform.nix)
 
 
 
@@ -6220,7 +6220,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix)
 
 
 
@@ -6246,7 +6246,7 @@ non-empty (list of string)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix)
 
 
 
@@ -6267,7 +6267,7 @@ unspecified value
 ` pkgs.texlive `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/texlive.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/texlive.nix)
 
 
 
@@ -6293,7 +6293,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/typescript.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/typescript.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/typescript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/typescript.nix)
 
 
 
@@ -6319,7 +6319,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/unison.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/unison.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/unison.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/unison.nix)
 
 
 
@@ -6340,7 +6340,7 @@ package
 ` pkgs.unison-ucm `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/unison.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/unison.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/unison.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/unison.nix)
 
 
 
@@ -6366,7 +6366,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/v.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/v.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/v.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/v.nix)
 
 
 
@@ -6387,7 +6387,7 @@ package
 ` pkgs.vlang `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/v.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/v.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/v.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/v.nix)
 
 
 
@@ -6413,7 +6413,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/vala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/vala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/vala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/vala.nix)
 
 
 
@@ -6439,7 +6439,7 @@ package
 ` pkgs.vala_0_54 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/vala.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/vala.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/vala.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/vala.nix)
 
 
 
@@ -6465,7 +6465,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/zig.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/zig.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/zig.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/zig.nix)
 
 
 
@@ -6486,7 +6486,7 @@ package
 ` pkgs.zig `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/languages/zig.nix](https://github.com/cachix/devenv/blob/main/src/modules/languages/zig.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/languages/zig.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/zig.nix)
 
 
 
@@ -6507,7 +6507,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 
 
@@ -6536,7 +6536,7 @@ outputOf (attribute set)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/outputs.nix](https://github.com/cachix/devenv/blob/main/src/modules/outputs.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/outputs.nix](https://github.com/caprinix/shell/blob/main/src/modules/outputs.nix)
 
 
 
@@ -6557,7 +6557,7 @@ submodule
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/pre-commit.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/pre-commit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/pre-commit.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/pre-commit.nix)
 
 
 
@@ -34939,7 +34939,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -34960,7 +34960,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -34986,7 +34986,7 @@ one of “honcho”, “overmind”, “process-compose”, “hivemind”
 ` "overmind" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -35027,7 +35027,7 @@ attribute set
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -35053,7 +35053,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/hivemind.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/hivemind.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/hivemind.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/hivemind.nix)
 
 
 
@@ -35074,7 +35074,7 @@ package
 ` pkgs.hivemind `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/hivemind.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/hivemind.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/hivemind.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/hivemind.nix)
 
 
 
@@ -35100,7 +35100,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/honcho.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/honcho.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/honcho.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/honcho.nix)
 
 
 
@@ -35121,7 +35121,7 @@ package
 ` pkgs.honcho `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/honcho.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/honcho.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/honcho.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/honcho.nix)
 
 
 
@@ -35147,7 +35147,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/overmind.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/overmind.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/overmind.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/overmind.nix)
 
 
 
@@ -35168,7 +35168,7 @@ package
 ` pkgs.overmind `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/overmind.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/overmind.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/overmind.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/overmind.nix)
 
 
 
@@ -35194,7 +35194,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix)
 
 
 
@@ -35215,7 +35215,7 @@ package
 ` pkgs.process-compose `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix)
 
 
 
@@ -35260,7 +35260,7 @@ YAML value
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/cachix/devenv/blob/main/src/modules/process-managers/process-compose.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix](https://github.com/caprinix/shell/blob/main/src/modules/process-managers/process-compose.nix)
 
 
 
@@ -35281,7 +35281,7 @@ attribute set of (submodule)
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -35297,7 +35297,7 @@ Bash code to run the process.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -35344,7 +35344,7 @@ attribute set
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/processes.nix](https://github.com/cachix/devenv/blob/main/src/modules/processes.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/processes.nix](https://github.com/caprinix/shell/blob/main/src/modules/processes.nix)
 
 
 
@@ -35365,7 +35365,7 @@ attribute set of (submodule)
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix](https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix](https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix)
 
 
 
@@ -35386,7 +35386,7 @@ package
 ` <derivation bash-5.2p26> `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix](https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix](https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix)
 
 
 
@@ -35407,7 +35407,7 @@ string
 ` "bash" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix](https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix](https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix)
 
 
 
@@ -35428,7 +35428,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix](https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix](https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix)
 
 
 
@@ -35444,7 +35444,7 @@ Shell code to execute when the script is run.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix](https://github.com/cachix/devenv/blob/main/src/modules/scripts.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix](https://github.com/caprinix/shell/blob/main/src/modules/scripts.nix)
 
 
 
@@ -35470,7 +35470,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix)
 
 
 
@@ -35491,7 +35491,7 @@ package
 ` pkgs.adminer `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix)
 
 
 
@@ -35512,7 +35512,7 @@ string
 ` "127.0.0.1:8080" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/adminer.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/adminer.nix)
 
 
 
@@ -35541,7 +35541,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35568,7 +35568,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35589,7 +35589,7 @@ package
 ` pkgs.blackfire `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35611,7 +35611,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35633,7 +35633,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35655,7 +35655,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35677,7 +35677,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35698,7 +35698,7 @@ string
 ` "tcp://127.0.0.1:8307" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/blackfire.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/blackfire.nix)
 
 
 
@@ -35724,7 +35724,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35745,7 +35745,7 @@ package
 ` pkgs.caddy `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35772,7 +35772,7 @@ string
 ` "nginx" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35801,7 +35801,7 @@ null or string
 ` "https://acme-staging-v02.api.letsencrypt.org/directory" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35847,7 +35847,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35872,7 +35872,7 @@ path
 ` "${config.env.DEVENV_STATE}/caddy" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35893,7 +35893,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35914,7 +35914,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35953,7 +35953,7 @@ attribute set of (submodule)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -35974,7 +35974,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -36006,7 +36006,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/caddy.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/caddy.nix)
 
 
 
@@ -36032,7 +36032,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36058,7 +36058,7 @@ package
 ` pkgs.cassandra_4; `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36079,7 +36079,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36100,7 +36100,7 @@ string
 ` "Test Cluster" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36131,7 +36131,7 @@ attribute set
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36152,7 +36152,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36178,7 +36178,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36204,7 +36204,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cassandra.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cassandra.nix)
 
 
 
@@ -36230,7 +36230,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix)
 
 
 
@@ -36251,7 +36251,7 @@ package
 ` pkgs.clickhouse `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix)
 
 
 
@@ -36267,7 +36267,7 @@ ClickHouse configuration in YAML.
 strings concatenated with “\\n”
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix)
 
 
 
@@ -36288,7 +36288,7 @@ signed integer
 ` 8123 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix)
 
 
 
@@ -36309,7 +36309,7 @@ signed integer
 ` 9000 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/clickhouse.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/clickhouse.nix)
 
 
 
@@ -36336,7 +36336,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix)
 
 
 
@@ -36357,7 +36357,7 @@ unspecified value
 ` "pkgs.cockroachdb-bin" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix)
 
 
 
@@ -36378,7 +36378,7 @@ string
 ` "localhost:8080" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix)
 
 
 
@@ -36399,7 +36399,7 @@ string
 ` "localhost:26257" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/cockroachdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/cockroachdb.nix)
 
 
 
@@ -36425,7 +36425,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36446,7 +36446,7 @@ package
 ` pkgs.couchdb3 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36467,7 +36467,7 @@ string *(read only)*
 ` config.env.DEVENV_STATE + "/couchdb" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36515,7 +36515,7 @@ attribute set of section of an INI file (attrs of INI atom (null, bool, int, flo
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36536,7 +36536,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36557,7 +36557,7 @@ Defined the port number to listen.
 ` 5984 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36580,7 +36580,7 @@ path
 ` config.env.DEVENV_STATE + "/couchdb" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36603,7 +36603,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36628,7 +36628,7 @@ path
 ` config.env.DEVENV_STATE + "/couchdb"/couchdb.uri `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36651,7 +36651,7 @@ path
 ` config.env.DEVENV_STATE + "/couchdb" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/couchdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/couchdb.nix)
 
 
 
@@ -36677,7 +36677,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix)
 
 
 
@@ -36698,7 +36698,7 @@ package
 ` pkgs.dynamodb-local `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix)
 
 
 
@@ -36719,7 +36719,7 @@ Listen address for the Dynamodb-local.
 ` 8000 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/dynamodb-local.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/dynamodb-local.nix)
 
 
 
@@ -36745,7 +36745,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix)
 
 
 
@@ -36766,7 +36766,7 @@ package
 ` pkgs.elasticmq-server-bin `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix)
 
 
 
@@ -36787,7 +36787,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticmq.nix)
 
 
 
@@ -36808,7 +36808,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36829,7 +36829,7 @@ package
 ` pkgs.elasticsearch7 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36850,7 +36850,7 @@ string
 ` "elasticsearch" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36871,7 +36871,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36904,7 +36904,7 @@ string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36935,7 +36935,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36956,7 +36956,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -36989,7 +36989,7 @@ string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -37015,7 +37015,7 @@ list of package
 ` [ pkgs.elasticsearchPlugins.discovery-ec2 ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -37036,7 +37036,7 @@ signed integer
 ` 9200 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -37057,7 +37057,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -37078,7 +37078,7 @@ signed integer
 ` 9300 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/elasticsearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/elasticsearch.nix)
 
 
 
@@ -37104,7 +37104,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix)
 
 
 
@@ -37130,7 +37130,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix)
 
 
 
@@ -37151,7 +37151,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/httpbin.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/httpbin.nix)
 
 
 
@@ -37177,7 +37177,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix)
 
 
 
@@ -37198,7 +37198,7 @@ package
 ` pkgs.influxdb `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix)
 
 
 
@@ -37219,7 +37219,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/influxdb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/influxdb.nix)
 
 
 
@@ -37245,7 +37245,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37266,7 +37266,7 @@ package
 ` pkgs.mailhog `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37297,7 +37297,7 @@ list of strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37318,7 +37318,7 @@ string
 ` "127.0.0.1:8025" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37339,7 +37339,7 @@ string
 ` "127.0.0.1:1025" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37360,7 +37360,7 @@ string
 ` "127.0.0.1:8025" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailhog.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailhog.nix)
 
 
 
@@ -37386,7 +37386,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix)
 
 
 
@@ -37407,7 +37407,7 @@ package
 ` pkgs.mailpit `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix)
 
 
 
@@ -37438,7 +37438,7 @@ list of strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix)
 
 
 
@@ -37459,7 +37459,7 @@ string
 ` "127.0.0.1:1025" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix)
 
 
 
@@ -37480,7 +37480,7 @@ string
 ` "127.0.0.1:8025" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mailpit.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mailpit.nix)
 
 
 
@@ -37506,7 +37506,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37527,7 +37527,7 @@ one of “development”, “production”
 ` "development" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37548,7 +37548,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37569,7 +37569,7 @@ Meilisearch port to listen on.
 ` 7700 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37597,7 +37597,7 @@ string
 ` "INFO" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37621,7 +37621,7 @@ string
 ` "107374182400" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37645,7 +37645,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/meilisearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/meilisearch.nix)
 
 
 
@@ -37671,7 +37671,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix)
 
 
 
@@ -37692,7 +37692,7 @@ package
 ` pkgs.memcached `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix)
 
 
 
@@ -37719,7 +37719,7 @@ null or string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix)
 
 
 
@@ -37741,7 +37741,7 @@ If port 0 is specified memcached will not listen on a TCP socket.
 ` 11211 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix)
 
 
 
@@ -37772,7 +37772,7 @@ list of strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/memcached.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/memcached.nix)
 
 
 
@@ -37798,7 +37798,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37819,7 +37819,7 @@ package
 ` pkgs.minio `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37840,7 +37840,7 @@ string
 ` "minioadmin" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37871,7 +37871,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37892,7 +37892,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37913,7 +37913,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37932,7 +37932,7 @@ Use ` lib.mkForce null ` to use your regular mc configuration from ` $HOME/.mc `
 null or JSON value
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37953,7 +37953,7 @@ package
 ` pkgs.minio-client `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37974,7 +37974,7 @@ string
 ` "127.0.0.1:9001" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -37995,7 +37995,7 @@ string
 ` "127.0.0.1:9000" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -38016,7 +38016,7 @@ string
 ` "us-east-1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -38037,7 +38037,7 @@ string
 ` "minioadmin" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/minio.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/minio.nix)
 
 
 
@@ -38063,7 +38063,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix)
 
 
 
@@ -38084,7 +38084,7 @@ package
 ` pkgs.mongodb `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix)
 
 
 
@@ -38122,7 +38122,7 @@ list of strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix)
 
 
 
@@ -38148,7 +38148,7 @@ string
 ` "secret" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix)
 
 
 
@@ -38174,7 +38174,7 @@ string
 ` "mongoadmin" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mongodb.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mongodb.nix)
 
 
 
@@ -38200,7 +38200,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38221,7 +38221,7 @@ package
 ` pkgs.mariadb `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38263,7 +38263,7 @@ list of (submodule)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38304,7 +38304,7 @@ attribute set of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38320,7 +38320,7 @@ Name of the user to ensure.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38341,7 +38341,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38362,7 +38362,7 @@ null or boolean
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38396,7 +38396,7 @@ list of (submodule)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38412,7 +38412,7 @@ The name of the database to create.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38434,7 +38434,7 @@ null or path
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38475,7 +38475,7 @@ lazy attribute set of lazy attribute set of anything
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38499,7 +38499,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/mysql.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/mysql.nix)
 
 
 
@@ -38525,7 +38525,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix)
 
 
 
@@ -38546,7 +38546,7 @@ package
 ` "pkgs.nginx" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix)
 
 
 
@@ -38574,7 +38574,7 @@ path
 ` ${pkgs.nginx}/conf/mime.types `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix)
 
 
 
@@ -38595,7 +38595,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix)
 
 
 
@@ -38616,7 +38616,7 @@ strings concatenated with “\\n”
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/nginx.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/nginx.nix)
 
 
 
@@ -38642,7 +38642,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38663,7 +38663,7 @@ package
 ` pkgs.opensearch `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38684,7 +38684,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38715,7 +38715,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38748,7 +38748,7 @@ string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38769,7 +38769,7 @@ YAML value
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38790,7 +38790,7 @@ string
 ` "opensearch" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38811,7 +38811,7 @@ string
 ` "single-node" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38832,7 +38832,7 @@ The port to listen on for HTTP traffic.
 ` 9200 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38853,7 +38853,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38874,7 +38874,7 @@ The port to listen on for transport traffic.
 ` 9300 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opensearch.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opensearch.nix)
 
 
 
@@ -38900,7 +38900,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix)
 
 
 
@@ -38921,7 +38921,7 @@ package
 ` pkgs.opentelemetry-collector-contrib `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix)
 
 
 
@@ -38955,7 +38955,7 @@ pkgs.writeTextFile { name = "otel-config.yaml"; text = "..."; }
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix)
 
 
 
@@ -38992,7 +38992,7 @@ YAML value
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/opentelemetry-collector.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/opentelemetry-collector.nix)
 
 
 
@@ -39019,7 +39019,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39049,7 +39049,7 @@ pkgs.postgresql_15
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39070,7 +39070,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39162,7 +39162,7 @@ extensions: [
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39193,7 +39193,7 @@ builtins.readFile ./my-custom/directory/to/pg_hba.conf
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39232,7 +39232,7 @@ list of strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39269,7 +39269,7 @@ list of (submodule)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39285,7 +39285,7 @@ The name of the database to create.
 string
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39306,7 +39306,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39328,7 +39328,7 @@ null or path
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39349,7 +39349,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39381,7 +39381,7 @@ CREATE ROLE bar;
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39407,7 +39407,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39428,7 +39428,7 @@ The TCP port to accept connections.
 ` 5432 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39469,7 +39469,7 @@ attribute set of (boolean or floating point number or signed integer or string)
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/postgres.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/postgres.nix)
 
 
 
@@ -39491,7 +39491,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39512,7 +39512,7 @@ package
 ` pkgs.rabbitmq-server `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39555,7 +39555,7 @@ attribute set of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39578,7 +39578,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39612,7 +39612,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39638,7 +39638,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39659,7 +39659,7 @@ On which port to run the management plugin
 ` 15672 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39685,7 +39685,7 @@ string
 ` "rabbit@localhost" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39706,7 +39706,7 @@ list of path
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39727,7 +39727,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39748,7 +39748,7 @@ Port on which RabbitMQ will listen for AMQP connections.
 ` 5672 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/rabbitmq.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/rabbitmq.nix)
 
 
 
@@ -39774,7 +39774,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix)
 
 
 
@@ -39795,7 +39795,7 @@ package
 ` pkgs.redis `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix)
 
 
 
@@ -39822,7 +39822,7 @@ null or string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix)
 
 
 
@@ -39843,7 +39843,7 @@ strings concatenated with “\\n”
 ` "locale-collate C" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix)
 
 
 
@@ -39865,7 +39865,7 @@ If port 0 is specified Redis, will not listen on a TCP socket and a unix socket 
 ` 6379 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/redis.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/redis.nix)
 
 
 
@@ -39891,7 +39891,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix)
 
 
 
@@ -39912,7 +39912,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix)
 
 
 
@@ -39933,7 +39933,7 @@ signed integer
 ` 8080 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/sqld.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/sqld.nix)
 
 
 
@@ -39959,7 +39959,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -39980,7 +39980,7 @@ package
 ` pkgs.temporal-cli `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40001,7 +40001,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40033,7 +40033,7 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40054,7 +40054,7 @@ Port for the frontend gRPC service.
 ` 7233 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40075,7 +40075,7 @@ submodule
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40096,7 +40096,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40128,7 +40128,7 @@ attribute set of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40149,7 +40149,7 @@ submodule
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40170,7 +40170,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40191,7 +40191,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40212,7 +40212,7 @@ Port for the Web UI.
 [` services.temporal.port `](\#servicestemporalport) + 1000
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/temporal.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/temporal.nix)
 
 
 
@@ -40238,7 +40238,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40259,7 +40259,7 @@ package
 ` pkgs.trafficserver `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40288,7 +40288,7 @@ strings concatenated with “\\n”
 ` "dest_domain=example.com suffix=js action=never-cache" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40317,7 +40317,7 @@ strings concatenated with “\\n”
 ` "domain=example.com volume=1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40358,7 +40358,7 @@ upstream defaults
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40387,7 +40387,7 @@ upstream defaults
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40421,7 +40421,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40446,7 +40446,7 @@ list of (submodule)
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40472,7 +40472,7 @@ string
 ` "--header=ATS-My-Debug" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40494,7 +40494,7 @@ string
 ` "xdebug.so" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40541,7 +40541,7 @@ Traffic Server records value
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40570,7 +40570,7 @@ strings concatenated with “\\n”
 ` "map http://from.example http://origin.example" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40586,7 +40586,7 @@ File layout used by Traffic Server
 unspecified value *(read only)*
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40625,7 +40625,7 @@ null or YAML value
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40661,7 +40661,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40690,7 +40690,7 @@ strings concatenated with “\\n”
 ` "dest_ip=* ssl_cert_name=default.pem" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40719,7 +40719,7 @@ strings concatenated with “\\n”
 ` "/dev/disk/by-id/XXXXX volume=1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40744,7 +40744,7 @@ null or YAML value
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40774,7 +40774,7 @@ null or YAML value
 ` "volume=1 scheme=http size=20%" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver](https://github.com/cachix/devenv/blob/main/src/modules/services/trafficserver)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver](https://github.com/caprinix/shell/blob/main/src/modules/services/trafficserver)
 
 
 
@@ -40800,7 +40800,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40821,7 +40821,7 @@ package
 ` pkgs.typesense `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40847,7 +40847,7 @@ list of strings concatenated with “\\n”
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40868,7 +40868,7 @@ string
 ` "example" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40889,7 +40889,7 @@ string
 ` "127.0.0.1" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40910,7 +40910,7 @@ The HTTP port to accept connections.
 ` 8108 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40931,7 +40931,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/typesense.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/typesense.nix)
 
 
 
@@ -40957,7 +40957,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -40978,7 +40978,7 @@ package
 ` pkgs.varnish `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -41004,7 +41004,7 @@ list of package
 ` [ pkgs.varnish73Packages.modules ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -41025,7 +41025,7 @@ string
 ` "127.0.0.1:6081" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -41046,7 +41046,7 @@ string
 ` "64M" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -41077,7 +41077,7 @@ strings concatenated with “\\n”
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/varnish.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/varnish.nix)
 
 
 
@@ -41103,7 +41103,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41124,7 +41124,7 @@ package
 ` pkgs.vault-bin `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41145,7 +41145,7 @@ string
 ` "127.0.0.1:8200" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41166,7 +41166,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41187,7 +41187,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41208,7 +41208,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/vault.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/vault.nix)
 
 
 
@@ -41234,7 +41234,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41255,7 +41255,7 @@ package
 ` pkgs.wiremock `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41276,7 +41276,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41332,7 +41332,7 @@ JSON value
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41353,7 +41353,7 @@ signed integer
 ` 8080 `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41374,7 +41374,7 @@ boolean
 ` false `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix](https://github.com/cachix/devenv/blob/main/src/modules/services/wiremock.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix](https://github.com/caprinix/shell/blob/main/src/modules/services/wiremock.nix)
 
 
 
@@ -41400,7 +41400,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix)
 
 
 
@@ -41421,7 +41421,7 @@ package
 ` pkgs.starship `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix)
 
 
 
@@ -41447,7 +41447,7 @@ boolean
 ` true `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix)
 
 
 
@@ -41468,7 +41468,7 @@ path
 ` ${config.env.DEVENV_ROOT}/starship.toml `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix](https://github.com/cachix/devenv/blob/main/src/modules/integrations/starship.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix](https://github.com/caprinix/shell/blob/main/src/modules/integrations/starship.nix)
 
 
 
@@ -41489,7 +41489,7 @@ package
 ` <derivation stdenv-linux> `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 
 
@@ -41505,7 +41505,7 @@ This option has no description.
 attribute set of (submodule)
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41526,7 +41526,7 @@ package
 ` <derivation bash-5.2p26> `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41547,7 +41547,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41568,7 +41568,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41589,7 +41589,7 @@ string
 ` "bash" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41610,7 +41610,7 @@ string
 ` "" `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41631,7 +41631,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41652,7 +41652,7 @@ list of string
 ` [ ] `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41673,7 +41673,7 @@ attribute set of anything
 ` { } `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41694,7 +41694,7 @@ null or string
 ` null `
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix](https://github.com/cachix/devenv/blob/main/src/modules/tasks.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix](https://github.com/caprinix/shell/blob/main/src/modules/tasks.nix)
 
 
 
@@ -41748,6 +41748,6 @@ list of string
 ```
 
 *Declared by:*
- - [https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix](https://github.com/cachix/devenv/blob/main/src/modules/top-level.nix)
+ - [https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix](https://github.com/caprinix/shell/blob/main/src/modules/top-level.nix)
 
 

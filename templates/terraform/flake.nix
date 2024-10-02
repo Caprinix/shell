@@ -1,7 +1,7 @@
 {
   inputs = {
     devenv.inputs.nixpkgs.follows = "nixpkgs";
-    devenv.url = "github:cachix/devenv";
+    devenv.url = "github:caprinix/shell";
     nixpkgs-terraform.url = "github:stackbuilders/nixpkgs-terraform";
     nixpkgs.url = "github:cachix/devenv-nixpkgs/rolling";
     systems.url = "github:nix-systems/default";

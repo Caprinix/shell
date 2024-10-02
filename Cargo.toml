@@ -6,7 +6,7 @@ members = ["devenv", "devenv-run-tests", "xtask", "tasks"]
 edition = "2021"
 license = "APACHE-2.0"
 homepage = "https://devenv.sh/"
-repository = "https://github.com/cachix/devenv/"
+repository = "https://github.com/caprinix/shell/"
 
 [workspace.dependencies]
 ansiterm = "0.12.2"
