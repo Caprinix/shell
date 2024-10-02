@@ -3245,7 +3245,7 @@ package
 
 
 *Default:*
-` pkgs.nodejs `
+` languages.javascript.package `
 
 *Declared by:*
  - [https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix](https://github.com/caprinix/shell/blob/main/src/modules/languages/javascript.nix)
@@ -41497,7 +41497,7 @@ package
 
 
 
-This option has no description.
+A set of tasks.
 
 
 
