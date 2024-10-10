@@ -38,6 +38,7 @@
   difftastic.enable = true;     
   vscode.enable = true;
   vscode.extensions = ["mkhl.direnv" "bbenoist.nix" "jnoortheen.nix-ide"];
+  vscode.overrideInDevcontainer = true;
 
   processes = {
     docs.exec = "mkdocs serve";
