@@ -4,3 +4,12 @@ inputs:
     url: path:.?dir=src/modules
   nix:
     url: github:domenkozar/nix/devenv-2.24
+  caprinix-config:
+    url: path:/etc/caprinix
+    flake: false
+  nix-vscode-extensions:
+    url: github:nix-community/nix-vscode-extensions
+    overlays:
+      - default
+
+allowUnfree: true 

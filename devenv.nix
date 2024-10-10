@@ -35,8 +35,10 @@
   languages.javascript.npm.install.enable = true;
 
   devcontainer.enable = true;
-  devcontainer.settings.customizations.vscode.extensions = [ "jnoortheen.nix-ide" ];
-  difftastic.enable = true;
+  difftastic.enable = true;     
+  vscode.enable = true;
+  vscode.extensions = ["mkhl.direnv" "bbenoist.nix" "jnoortheen.nix-ide"];
+  vscode.overrideInDevcontainer = true;
 
   processes = {
     docs.exec = "mkdocs serve";

@@ -2,6 +2,13 @@
 inputs:
   nixpkgs:
     url: github:cachix/devenv-nixpkgs/rolling
+  caprinix-config:
+    url: path:/etc/caprinix
+    flake: false
+  nix-vscode-extensions:
+    url: github:nix-community/nix-vscode-extensions
+    overlays:
+      - default
 
 # If you're using non-OSS software, you can set allowUnfree to true.
 # allowUnfree: true
